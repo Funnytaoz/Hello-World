@@ -13,6 +13,12 @@
 - 列表2
 - 列表3
 
+#### 选项
+- [ ] \(Optional) Open a followup issue
+- [x] Finish my changes
+- [ ] Push my commits to GitHub
+- [ ] Open a pull request
+
 #### 有序列表
 1.列表1
 2.列表2
@@ -21,6 +27,8 @@
 [插入链接-学习MARKDOWN](https://www.jianshu.com/p/q81RER)
 
 [详细MARKDOWN教程](http://wowubuntu.com/markdown/#html)
+
+[Github官方的MARKDOWN教程](https://help.github.com/articles/basic-writing-and-formatting-syntax/#mentioning-people-and-teams)
 
 ![插入图片](https://upload-images.jianshu.io/upload_images/259-b7a1aa59aaca63e4.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/431)
 
